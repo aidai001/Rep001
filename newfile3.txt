@@ -1,1 +1,1 @@
-git status
+dobavit git status
