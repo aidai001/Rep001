@@ -1,1 +1,1 @@
-<span>Git</span>
+<strong>Git</strong>
